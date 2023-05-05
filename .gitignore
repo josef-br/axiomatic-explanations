@@ -1,0 +1,8 @@
+venv/**
+data/**
+__model_cache__/**
+**/__pycache__/**
+.vscode/**
+.ipynb_checkpoints/**
+resources/abbreviations.csv
+resources/spacy_model/**

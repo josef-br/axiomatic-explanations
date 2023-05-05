@@ -1,0 +1,17 @@
+wheel
+pandas==1.5.1
+ipython
+ipykernel
+torch
+sentence-transformers
+matplotlib
+faiss-cpu
+tqdm
+ipywidgets>=7.0,<8.0
+spacy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1.tar.gz
+gensim==4.2.0
+pretty_downloader
+ir_datasets
+DomainThesaurus
+more_itertools
