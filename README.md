@@ -13,7 +13,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-This code requires the installation of [`pylucene`](https://lucene.apache.org/pylucene/). This one is a but cumbersome, and it cannot be simply installed via one pip dependency. You can either install it using the official installation guide from the documentation, or you can use my (arguably simpler to install) [fork on GitHub]. **Either way, make sure you install it into the virtual environment if you use one.**
+This code requires the installation of [`pylucene`](https://lucene.apache.org/pylucene/). This one is a but cumbersome, and it cannot be simply installed via one pip dependency. You can either install it using the official installation guide from the documentation, or you can use my (arguably simpler to install) [fork on GitHub](https://github.com/josef-br/pylucene). **Either way, make sure you install it into the virtual environment if you use one.**
 
 ## Processing Steps
 
